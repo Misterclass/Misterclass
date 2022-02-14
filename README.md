@@ -1,4 +1,6 @@
 <img src="https://github.com/Misterclass/Misterclass/blob/main/header.png" alt="header">
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 <!-- <h1 align="center">Hi there, I'm Pavel Polbitsev!> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
