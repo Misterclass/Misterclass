@@ -1,7 +1,9 @@
-<h1 align="center">Hi there, I'm Pavel Polbitsev!> 
+<img src="https://github.com/Misterclass/Misterclass/blob/main/header.png" alt="header">
+
+<!-- <h1 align="center">Hi there, I'm Pavel Polbitsev!> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm <b>Unreal Engine developer</b>, Sevastopol State University student and sportsman!</h3>
-<h3 align="center">I'm currently learning English, reading a lot of books and doing powerlifting!</h3>
+<h3 align="center">I'm currently learning English, reading a lot of books and doing powerlifting!</h3> -->
 
 <!--
 **Misterclass/Misterclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
