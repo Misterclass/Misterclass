@@ -17,6 +17,13 @@
 <!-- My hobbies -->
 <p>- 🌱 Also I’m currently learning English, public speaking, time and project management! I like travelling, powerlifting, books and games!</p>
 
+<p>- 👯 My contacts: </p>
+<ul>
+  <li>Discord: <i>Paul Polbitsev Mister Class#0935</i></li>
+  <li>Telegram: <i>@misterclasspol</i></li>
+  <li>Email: <i>misterclass2909@yandex.ru</i></li>
+</ul>
+
 <br>
 
 <!-- My experience (programming, programs, tools, OS) -->
